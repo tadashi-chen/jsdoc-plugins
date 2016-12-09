@@ -18,7 +18,7 @@ var defaultTags = [
     'properties',
     'returns',
     'see',
-    'args'
+    'json'
 ];
 var hasOwnProp = Object.prototype.hasOwnProperty;
 var parse = require('jsdoc/util/markdown').getParser();
